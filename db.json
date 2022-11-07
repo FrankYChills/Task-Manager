@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Attending Conference",
+      "day": "July 14th at 1:30 PM",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Driving in Hills",
+      "day": "July 15th at 10:00 AM",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Cooking Food and stuff",
+      "day": "July 17th at 06:30 AM",
+      "reminder": false
+    },
+    {
+      "text": "Running 5 KMs",
+      "day": "Monday",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Cycling Town",
+      "day": "Tuesday",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
